@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+appsettings.json
+launchSettings.json
