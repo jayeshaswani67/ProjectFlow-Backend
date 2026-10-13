@@ -1,10 +1,14 @@
+
+# Build artifacts
 bin/
 obj/
 .vs/
+
+# Environment secrets
 .env
 .env.*
 !.env.example
+
+# Local ASP.NET configuration
 appsettings.Development.json
 secrets.json
-appsettings.json
-launchSettings.json
